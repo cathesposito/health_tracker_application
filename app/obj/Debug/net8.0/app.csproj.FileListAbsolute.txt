@@ -12,3 +12,18 @@
 /Users/catarina/Documents/Centennial College/PROGRAMMING 1/Assignment 2/app/obj/Debug/net8.0/app.pdb
 /Users/catarina/Documents/Centennial College/PROGRAMMING 1/Assignment 2/app/obj/Debug/net8.0/app.genruntimeconfig.cache
 /Users/catarina/Documents/Centennial College/PROGRAMMING 1/Assignment 2/app/obj/Debug/net8.0/ref/app.dll
+/Users/catarina/health_tracker_application/app/bin/Debug/net8.0/app
+/Users/catarina/health_tracker_application/app/bin/Debug/net8.0/app.deps.json
+/Users/catarina/health_tracker_application/app/bin/Debug/net8.0/app.runtimeconfig.json
+/Users/catarina/health_tracker_application/app/bin/Debug/net8.0/app.dll
+/Users/catarina/health_tracker_application/app/bin/Debug/net8.0/app.pdb
+/Users/catarina/health_tracker_application/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/catarina/health_tracker_application/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/Users/catarina/health_tracker_application/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/Users/catarina/health_tracker_application/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/Users/catarina/health_tracker_application/app/obj/Debug/net8.0/app.sourcelink.json
+/Users/catarina/health_tracker_application/app/obj/Debug/net8.0/app.dll
+/Users/catarina/health_tracker_application/app/obj/Debug/net8.0/refint/app.dll
+/Users/catarina/health_tracker_application/app/obj/Debug/net8.0/app.pdb
+/Users/catarina/health_tracker_application/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/Users/catarina/health_tracker_application/app/obj/Debug/net8.0/ref/app.dll
