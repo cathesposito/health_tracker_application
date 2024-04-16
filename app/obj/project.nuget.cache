@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qzO882hSjK4qhpaLYYLBAaUOlUyFn43yLWe5Co4IBbapjkuQQ5nskBeKUCPxxlHcaBV3j9sm24t7kRbR6Apedg==",
+  "dgSpecHash": "wGdcCTAOL/GOpThdLH6o4NiQwx5zMj8X5oj0NaB7eUg27fsZWZxJFeu8quTV2IbP2MLwAEwjL+YDdhoanYgVtw==",
   "success": true,
-  "projectFilePath": "/Users/catarina/Documents/Centennial College/PROGRAMMING 1/Assignment 2/app/app.csproj",
+  "projectFilePath": "/Users/catarina/health_tracker_application/app/app.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

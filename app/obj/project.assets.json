@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/catarina/Documents/Centennial College/PROGRAMMING 1/Assignment 2/app/app.csproj",
+      "projectUniqueName": "/Users/catarina/health_tracker_application/app/app.csproj",
       "projectName": "app",
-      "projectPath": "/Users/catarina/Documents/Centennial College/PROGRAMMING 1/Assignment 2/app/app.csproj",
+      "projectPath": "/Users/catarina/health_tracker_application/app/app.csproj",
       "packagesPath": "/Users/catarina/.nuget/packages/",
-      "outputPath": "/Users/catarina/Documents/Centennial College/PROGRAMMING 1/Assignment 2/app/obj/",
+      "outputPath": "/Users/catarina/health_tracker_application/app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/catarina/.nuget/NuGet/NuGet.Config"
